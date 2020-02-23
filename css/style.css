@@ -6,6 +6,15 @@
  * Made By MaterializeCSS.com
  */
 
+@font-face {
+  font-family: libre;
+  src: url(AbhayaLibre-Regular.ttf);
+}
+@font-face {
+  font-family: libre;
+  src: url(AbhayaLibre-Bold.ttf);
+  font-weight: bold;
+}
 nav ul a,
 nav .brand-logo {
   color: #444;
